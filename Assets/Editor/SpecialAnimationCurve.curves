@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 4
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12322, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SpecialAnimationCurve
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 1.44403052
+        outSlope: 1.44403052
+        tangentMode: 10
+      - time: .218393475
+        value: .315366834
+        inSlope: .861363769
+        outSlope: .861363769
+        tangentMode: 10
+      - time: .561134636
+        value: .410887748
+        inSlope: .908159137
+        outSlope: .908159137
+        tangentMode: 10
+      - time: .742824733
+        value: .690258324
+        inSlope: 1.05736315
+        outSlope: 1.05736315
+        tangentMode: 10
+      - time: .922816932
+        value: .79413271
+        inSlope: 1.62218237
+        outSlope: 1.62218237
+        tangentMode: 10
+      - time: 1
+        value: 1
+        inSlope: 2.66725969
+        outSlope: 2.66725969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+  - m_Name: 
+    m_Curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 1.44403052
+        outSlope: 1.44403052
+        tangentMode: 10
+      - time: .218393475
+        value: .315366834
+        inSlope: .861363769
+        outSlope: .861363769
+        tangentMode: 10
+      - time: .561134636
+        value: .410887748
+        inSlope: .908159137
+        outSlope: .908159137
+        tangentMode: 10
+      - time: .742824733
+        value: .690258324
+        inSlope: 1.05736315
+        outSlope: 1.05736315
+        tangentMode: 10
+      - time: .922816932
+        value: .79413271
+        inSlope: 1.62218237
+        outSlope: 1.62218237
+        tangentMode: 10
+      - time: 1
+        value: 1
+        inSlope: 2.66725969
+        outSlope: 2.66725969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
